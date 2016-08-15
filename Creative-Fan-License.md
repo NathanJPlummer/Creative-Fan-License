@@ -4,7 +4,7 @@ The "Creative Fan License" is not official in any way.  It is currently a though
 
 This document has not been legally approved, legally tested, and is not valid in anyway.
 
-For the time being, you may distribute this work under the Creative Commons License with the follow baselines:
+For the time being, you may distribute this work under the Creative Commons License with the following baselines:
 
 Noncommercial:  You may not use this work, or any derivative works, for commercial gain.
 
