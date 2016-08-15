@@ -23,7 +23,7 @@ If you plan to contribute to the project, please read this carefully first.
 Note this license grants different rights based on your contribution and/or legal rights to the material.  License types are as follows:
 
 - 3rd Party License
-	- For contributors to the project.  Bound under the terms of the Creative Commons License.  See additonal details below.  3rd party rights, when conflicting, are superseded by 2nd party rights holders, and 1st party rights holder.
+	- For contributors to the project.  Bound under the terms of the Creative Commons License.  See additional details below.  3rd party rights, when conflicting, are superseded by 2nd party rights holders, and 1st party rights holder.
 
 - 2nd Party License
 	- License granted to project creators, or the "authors."  Grants additional rights beyond the 3rd party and Creative Commons license.  See section "2nd Party- Author's license."  2nd party rights, when conflicting, are superseded by the 1st party rights holder.
