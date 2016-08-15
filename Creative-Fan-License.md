@@ -64,7 +64,7 @@ To avoid potential legal entanglements with the 1st party, or potential legal en
 Additionally, 3rd party contributors agree to the following terms:
 
 - Responsibility of Public Display for 3rd Party Contributors
-	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit of derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.  The authors are only legally responsible for public displays of project that are displayed with the authors' approval.  Derivative displays are the legal responsibility of the 3rd party contributor displaying his or her work.
+	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit from derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.  The authors are only legally responsible for public displays of project that are displayed with the authors' approval.  Derivative displays are the legal responsibility of the 3rd party contributor displaying his or her work.
 
 
 #1st Party- Copyright License
