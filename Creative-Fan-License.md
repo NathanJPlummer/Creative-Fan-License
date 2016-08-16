@@ -78,7 +78,7 @@ This work, and *all derivate works* remain 100% the property of the rights holde
 - Wave of right to financial restitution:
 	- The current rights holder may use the material within, in any way they should see fit, without legal obligation to financially reward this project or those involved with the project.  This pertains to all aspects of this project, including any original material, situations, or characters not developed by the copyright holder or an official licensor.  *If you create material for this project, it is no longer legally yours.*  It is now the property of the current rights holder.
 - Wave of right of public display
-	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit of derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.
+	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit from derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.
 
 ##Rights of Official Licensees 
 
