@@ -1,6 +1,7 @@
 # Creative Fan License
 An attempt to create a license for fan derivative works while respecting copyright holders' rights.
-##License of the License
+
+## License of the License
 
 The "Creative Fan License" is not official in any way.  It is currently a thought project.  I am not a lawyer.
 
