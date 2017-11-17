@@ -14,7 +14,7 @@ Note the above terms apply only to this document itself, and not to any works th
 
 
 
-#Creative Fan License
+# Creative Fan License
 
 Yes, the license for this product, which is a derivative work, is complicated.
 
@@ -32,7 +32,7 @@ Note this license grants different rights based on your contribution and/or lega
 	- License granted to the original copyright holder.  See additional details in "1st Party- Copyright License." Supersedes all other rights.
  
 ---
-#3rd Party- Creative Commons License
+# 3rd Party- Creative Commons License
 ### (With Exceptions.  Please see below).
 
 This work is licensed under a Creative Commons License with the following baseline rights:
@@ -49,14 +49,14 @@ The Creative Fan License requires to you to wave additional rights.
 
 See the following two sections to understand which rights you are no longer granted.
 
-#2nd Party- Author License
+# 2nd Party- Author License
 
 Many aspects of this project are under ownership of the current rights holder.
 
 To avoid potential legal entanglements with the 1st party, or potential legal entanglements with future licensing, all 3rd party contributors must agree to wave the following rights in respect to the 2nd party, the project author: 
 
 - Right to attribution:
-	- The project author(s) (2nd party) will make a "good faith" effort provide credit to the project contributors.  However, the authors may use the material within, in any way they should see fit, without legal obligation to credit 3rd party contributors.  This pertains to all aspects of this project, including any original material, situations, or characters not developed by the project authors.  *If you create material for this project, it is no longer legally yours.*  It is now the property of the project author and the current rights holder.
+	- The project author(s) (2nd party) will make a "good faith" effort to provide credit to the project contributors.  However, the authors may use the material within, in any way they should see fit, without legal obligation to credit 3rd party contributors.  This pertains to all aspects of this project, including any original material, situations, or characters not developed by the project authors.  *If you create material for this project, it is no longer legally yours.*  It is now the property of the project author and the current rights holder.
 
 - Right to financial restitution:
 	- The project author(s) (2nd party) may use the material within, in any way they should see fit, without legal obligation to financially reward 3rd party contributors.  This pertains to all aspects of this project, including any original material, situations, or characters not developed by the project author(s).  *If you create material for this project, it is no longer legally yours.*  It is now the property of the project authors and current rights holder.
@@ -64,10 +64,10 @@ To avoid potential legal entanglements with the 1st party, or potential legal en
 Additionally, 3rd party contributors agree to the following terms:
 
 - Responsibility of Public Display for 3rd Party Contributors
-	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit from derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.  The authors are only legally responsible for public displays of project that are displayed with the authors' approval.  Derivative displays are the legal responsibility of the 3rd party contributor displaying his or her work.
+	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit from derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.  The (2nd party) authors are only legally responsible for public displays of project that are displayed with the (2nd Party) authors' written approval.  Derivative displays are the legal responsibility of the 3rd party contributor displaying his or her work.
 
 
-#1st Party- Copyright License
+# 1st Party- Copyright License
 
 Many aspects of this project are under ownership of the current rights holder.
 
@@ -80,7 +80,7 @@ This work, and *all derivate works* remain 100% the property of the rights holde
 - Wave of right of public display
 	- The "Creative Fan License" is in essence, a "good faith" license, designed to insure copyright holders they retain the original rights as well as allow them to profit from derivate works, if they so choose, without legal entanglements.  This license in no way protects you from a cease and desist, a DMCA takedown, or prevents the copyright holder from pursuing any other legal rights they wish to pursue.
 
-##Rights of Official Licensees 
+## Rights of Official Licensees 
 
 - 1st party licensees
 	- 1st party licensees are hereby defined as any licensee that has a license obtained directly from the original copyright holder.
@@ -88,4 +88,4 @@ This work, and *all derivate works* remain 100% the property of the rights holde
 
 - 3rd party licensees
 	- 3rd party licensees are hereby defined as a license granted by a party that is not the current copyright holder but has been granted permission by the copyright holder to sell additional licenses.  An example of this type of license would be the "Kindle Worlds" program.
-	- 3rd party licensees are not granted any additional rights and are bound to the 3rd party Creative Commons license unless granted additional rights by the 2nd party licensor, the project authors, or the 1st party licensor, the current copyright holder.
+	- 3rd party licensees are not granted any additional rights and are bound to the 3rd party Creative Commons license unless granted additional rights by the 2nd party liscense project authors, a 1st party licensor, or the current copyright holder.
