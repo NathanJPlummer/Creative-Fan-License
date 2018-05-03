@@ -1,4 +1,4 @@
-#FAQ
+# FAQ
 
 1.  Hey, wait a minute?!  This license doesn't actually give creators any rights at all!  It still gives all rights, including financial gain, to the copyright holder!
 
